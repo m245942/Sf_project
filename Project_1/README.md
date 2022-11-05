@@ -1,17 +1,17 @@
 # Проект 1. Угадать число, загаданное компьютером, менее чем за 20 попыток
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Результат)    
+[6. Выводы](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 Задаём пределы случайного числа (min, max). Определяем количество попыток (count)
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -39,18 +39,18 @@
 - Второй этап - написание кода, который вычесляет случайное число
 - Прогон кода 1000 раз для определения среднего значения
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 Код определяет случайное число за количество попыток от 1 до 8. В среднем за 5 попыток.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 Нет ничего не возможного
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/m245942/Sf_project/tree/master/Project_1/README.md#Оглавление)
 
 
